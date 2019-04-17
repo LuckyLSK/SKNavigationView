@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1538236783556D034C8190EC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		1E1FCB01D2C879FC87A4BD54 /* SKNavigationView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SKNavigationView.podspec; path = ../SKNavigationView.podspec; sourceTree = "<group>"; };
+		1538236783556D034C8190EC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1E1FCB01D2C879FC87A4BD54 /* SKNavigationView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SKNavigationView.podspec; path = ../SKNavigationView.podspec; sourceTree = "<group>"; };
 		2329F4A9B16226DEF207C2BE /* Pods_SKNavigationView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SKNavigationView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		26E9DCCFD97768E5EB273EC1 /* Pods-SKNavigationView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKNavigationView_Tests.release.xcconfig"; path = "Target Support Files/Pods-SKNavigationView_Tests/Pods-SKNavigationView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* SKNavigationView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKNavigationView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,7 +63,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		891EFB0DD1C63F760440F498 /* Pods-SKNavigationView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKNavigationView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SKNavigationView_Tests/Pods-SKNavigationView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		93BB4E844F867F82B7AEF130 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		93BB4E844F867F82B7AEF130 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		CCD922B3E0CB68692C5C30C0 /* Pods-SKNavigationView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKNavigationView_Example.release.xcconfig"; path = "Target Support Files/Pods-SKNavigationView_Example/Pods-SKNavigationView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EAB24E3ED23B454C89E351E6 /* Pods-SKNavigationView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKNavigationView_Example.debug.xcconfig"; path = "Target Support Files/Pods-SKNavigationView_Example/Pods-SKNavigationView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FB3745616C05F106F58CEE5D /* Pods_SKNavigationView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SKNavigationView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +103,6 @@
 				891EFB0DD1C63F760440F498 /* Pods-SKNavigationView_Tests.debug.xcconfig */,
 				26E9DCCFD97768E5EB273EC1 /* Pods-SKNavigationView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
